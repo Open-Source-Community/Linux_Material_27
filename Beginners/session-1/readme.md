@@ -4,7 +4,7 @@ Welcome to the first session of the Linux Committee – OSC!
 
 In this session, we take our first steps into the world of Linux. We explore how Linux started, the history behind it, the GNU Project, and how different Linux distributions came to life.
 
-[Session slides] (./session1.pdf)
+[Session slides] (https://github.com/Open-Source-Community/Linux_Material_27/blob/master/Beginners/session-1/session1.pdf)
 
 📚 Topics Covered
 History of Linux: Learn about the origins of Linux, how Linus Torvalds started the project in 1991, and how it evolved into one of the most widely used operating system kernels.
