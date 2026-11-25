@@ -65,7 +65,7 @@ Display and compare the Inode numbers of:
 
 ### 6. Create a File Inventory
 
-Use `ls -a` with a pipeline to save the contents of `Case_Files` into:
+Use `ls -a` with redirection to save the contents of `Case_Files` into:
 
 `Storage/file_index.txt`
 
